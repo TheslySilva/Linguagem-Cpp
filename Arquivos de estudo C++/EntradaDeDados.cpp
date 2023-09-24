@@ -40,12 +40,13 @@ int main() {
 
 	cout << "Salario : ";
 	cin >> salario2;
+	
 	//Saida
 
 	cout << "\nNome = " << nome1<<endl;
 	cout << "Idade = " <<idade1<< endl;
 	cout << "Salario = " <<salario1<< endl;
-	
+
 	cout << "\nNome = " <<nome2<< endl;
 	cout << "Idade = " << idade2 << endl;
 	cout << "Salario = " <<salario2<< endl;
