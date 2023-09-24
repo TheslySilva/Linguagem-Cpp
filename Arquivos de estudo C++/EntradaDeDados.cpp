@@ -7,6 +7,8 @@ using namespace std;
 
 int main() {
 
+  // variaveis
+
 	string nome1,
 	nome2;
 	int idade1,
@@ -40,7 +42,7 @@ int main() {
 
 	cout << "Salario : ";
 	cin >> salario2;
-	
+
 	//Saida
 
 	cout << "\nNome = " << nome1<<endl;
