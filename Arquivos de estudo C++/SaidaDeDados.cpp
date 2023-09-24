@@ -3,12 +3,18 @@
 using namespace std;
 
 int main() {
-	
+
 	//Variaveis
-	string nome = "Thesly Silva";
-	int idade = 21;
-	char sexo = 'M';
-	double altura = 1.61;
+  string nome;
+  int idade;
+  char sexo;
+  double altura;
+  
+  //Atribuindo valores
+	nome = "Thesly Silva";
+	idade = 21;
+	sexo = 'M';
+	altura = 1.61;
 
 	//Saida de dados
 	cout << "Nome = " << nome << endl;
