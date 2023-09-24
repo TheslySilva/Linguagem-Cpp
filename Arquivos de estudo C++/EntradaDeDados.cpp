@@ -1,5 +1,5 @@
 #include <iostream>//Entrada e Saida
-#include <climits>//Limpa Entradas
+#include <climits>//Limpa a Entrada
 #include <iomanip>//Formata Decimais
 #include <string>//Manipulação de Strings
 
@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-  // variaveis
+	// variaveis
 
 	string nome1,
 	nome2;
@@ -20,28 +20,28 @@ int main() {
 
 	cout << "Primeira Pessoa:"<< endl;
 
-	cout << "\nNome : ";
-	getline(cin, nome1);
+	cout << "\nNome : ";//Saida
+	getline(cin, nome1);//Entrada de String
 
-	cout << "Idade ";
-	cin >> idade1;
+	cout << "Idade ";//Saida
+	cin >> idade1;//Entrada
 
-	cout << "Salario : ";
-	cin >> salario1;
+	cout << "Salario : ";//Saida
+	cin >> salario1;//Entrada
 
 	//Segunda Pessoa
 
 	cout << "\nSegunda Pessoa :" << endl;
 
 	cout << "\nNome : ";
-	cin.ignore(INT_MAX, '\n');
-	getline (cin, nome2);
+	cin.ignore(INT_MAX, '\n');//Limpa a quebra de linha
+	getline (cin, nome2);//Entrada de String
 
-	cout << "Idade : ";
-	cin >> idade2;
+	cout << "Idade : ";//Saida
+	cin >> idade2;//Entrada 
 
-	cout << "Salario : ";
-	cin >> salario2;
+	cout << "Salario : ";//Saida
+	cin >> salario2;//Entrada
 
 	//Saida
 
