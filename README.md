@@ -4,6 +4,8 @@
 
 C ++ é uma extensão da linguagem de programação C. As extensões de C ++ sobre C foram primeiramente introduzidas por Bjarne Stroustrup em 1980 nos Laboratórios Bell de New Jersey. Inicialmente, a linguagem era chamada "C com classes", mas o nome foi alterado para C ++ em 1983.
 
+![Bjarne Stroustrup](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjKMUT1Zt2GX30bZSpWSmjUjYTQdg56QxInQ&usqp=CAU)
+
 <br />
 
 A motivação para o desenvolvimento de C ++ foi complexidade. Grandes sistemas implementados com a linguagem C, na ordem de 25000 a 100000 linhas de código, são difíceis de controlar ou mesmo entender sua totalidade. C ++ surgiu para permitir que esta barreira seja quebrada. O objetivo de C ++ é permitir que programadores possam gerenciar e compreeender programas maiores e mais complexos.
